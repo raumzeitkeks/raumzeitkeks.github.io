@@ -74,6 +74,8 @@ echo -e "$readme" > "${outdir}/.github/README.md"
 _info "Build done"
 
 # ---
-_headline "Output overview"
-_info "Following changes were done"
-git status --untracked --short -- "$outdir"
+_headline "Previewing output"
+_info "Status of output directory"
+cd "$outdir"
+git status --untracked --short -- .
+cd ..
