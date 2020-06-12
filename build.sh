@@ -11,15 +11,16 @@ _headline () { echo "$(tput setaf 4)$1$(tput sgr0)"; }
 _info     () { echo "$(tput setaf 5)> $1$(tput sgr0)"; }
 _warning  () { echo "$(tput setaf 3)> $1$(tput sgr0)"; }
 _error    () { echo "$(tput setaf 1)Error: $1$(tput sgr0)"; }
+_ask      () { echo -n "$(tput setaf 5)> $1 $(tput sgr0)"; }
 
 # ---
 _headline "Checking working directory status"
 
 status="$(git status --short --ignored)"
 if [ -z "$status" ]; then
-    _info "Working directory clean"
+    _info "Source directory clean"
 else
-    _warning "Uncommited changes exist!"
+    _warning "Source directory has uncommited changes!"
     echo "$status"
 fi
 
@@ -27,18 +28,19 @@ fi
 _headline "Preparing output directory"
 
 exitcode=0
-if [ -d "$outdir" ] && [ -e "${outdir}/.git" ]; then
-    _info "Clearing worktree contents of output directory"
+if [ -d "$outdir" ]; then
+    _info "Removing all contents of output directory"
+    _ask "Uncommited changes will be lost! Continue [Y/n]?"
+    read answer
+    if [ -n "$answer" ] && [ "$answer" = "${answer#[Yy]}" ];then
+        exit 0
+    fi
     cd "$outdir"
     rm -f $(git ls-files --cached --other -- .)
     exitcode=$?
     cd ..
-elif [ -d "$outdir" ]; then
-    _info "Removing output directory"
-    rm -rf "$outdir"
-    exitcode=$?
 else
-    _info "Creating output directory"
+    _info "Creating empty output directory"
     mkdir "$outdir"
     exitcode=$?
 fi
@@ -70,3 +72,8 @@ mkdir -p "${outdir}/.github"
 echo -e "$readme" > "${outdir}/.github/README.md"
 
 _info "Build done"
+
+# ---
+_headline "Output overview"
+_info "Following changes were done"
+git status --untracked --short -- "$outdir"

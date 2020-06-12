@@ -25,7 +25,7 @@ cd ..
 
 # ---
 _headline "Pushing changes"
-_ask "Do you want to push the output changes [Y/n]? "
+_ask "Do you want to push the output changes [y/N]?"
 read answer
 if [ "$answer" != "${answer#[Yy]}" ] ;then
     cd "$outdir"
