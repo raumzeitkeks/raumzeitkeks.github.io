@@ -1,0 +1,4 @@
+title: "ruoc.co"
+baseURL: "https://ruoc.co/"
+languageCode: "en-us"
+disableKinds: ["taxonomy", "taxonomyTerm"]

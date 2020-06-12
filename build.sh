@@ -54,8 +54,8 @@ fi
 _headline "Building site"
 
 # Build site
-echo "<!DOCTYPE html><html><head><title>${domain}</title></head><body>OK</body></html>" > "${outdir}/index.html"
-#hugo --source site --destination "$outdir"
+#echo "<!DOCTYPE html><html><head><title>${domain}</title></head><body>OK</body></html>" > "${outdir}/index.html"
+hugo --source="$(realpath site)" --destination="$(realpath $outdir)"
 
 # Create CNAME
 cname="ruoc.co"
