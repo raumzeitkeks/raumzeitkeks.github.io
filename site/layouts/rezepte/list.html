@@ -1,0 +1,65 @@
+{{ define "main" }}
+  <div class="container" role="main">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        {{ with .Content }}
+          <div class="well">
+            {{.}}
+          </div>
+        {{ end }}
+        <script>
+          function filterRecipes() {
+            // Declare variables
+            var input, filter, ul, li, a, i, txtValue;
+            input = document.getElementById('recipe-search');
+            filter = input.value.toUpperCase();
+            ul = document.getElementById('recipe-list');
+            li = ul.getElementsByTagName('li');
+          
+            // Loop through all list items, and hide those who don't match the search query
+            for (i = 0; i < li.length; i++) {
+              a = li[i].getElementsByClassName("recipe-title")[0];
+              txtValue = a.textContent || a.innerText;
+              if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                li[i].style.display = "";
+              } else {
+                li[i].style.display = "none";
+              }
+            }
+          }
+          </script>
+        <input type="text" id="recipe-search" onkeyup="filterRecipes()" placeholder="Search...">
+        <ol id="recipe-list">
+          {{ range sort .Pages "Title" }}
+            <li>
+                <a href="{{ .Permalink }}">
+                    <h2 class="recipe-title">{{ .Title }}</h2>
+                    {{ if .Params.subtitle }}
+                    <h3 class="recipe-subtitle">
+                        {{ .Params.subtitle }}
+                    </h3>
+                    {{ end }}
+                    {{ if .Params.image }}
+                    <img src="{{ .Params.image }}" alt="{{ .Title }}" class="img-title" />
+                    {{ end }}
+                </a>
+                <p class="recipe-meta">
+                    {{ partial "recipe_meta.html" . }}
+                </p>
+                <div class="recipe-entry">
+                    {{/* .Summary */}}
+                </div>
+                {{ if .Params.tags }}
+                <div class="recipe-tags">
+                    {{ range .Params.tags }}
+                    <a href="{{ $.Site.LanguagePrefix | absURL }}/tags/{{ . | urlize }}/">{{ . }}</a>&nbsp;
+                    {{ end }}
+                </div>
+                {{ end }}
+          </li>
+          {{ end }}
+        </ol>
+      </div>
+    </div>
+  </div>
+{{ end }}

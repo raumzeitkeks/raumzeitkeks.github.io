@@ -1,4 +1,28 @@
 title: "ruoc.co"
 baseURL: "https://ruoc.co/"
-languageCode: "en-us"
 disableKinds: ["taxonomy", "taxonomyTerm"]
+
+params:
+  homeTitle: "Home"
+  subtitle: "Website of Calvin and Giulia"
+  # mainSections = ["post","posts"]
+  logo: "img/logo.png"
+  favicon: "img/favicon.ico"
+  dateFormat: "January 2, 2006"
+  commit: false
+  rss: true
+  comments: false
+  useHLJS: true
+  socialShare: true
+  bigimg:
+    - src: "img/triangle.jpg"
+      desc: ""
+  contact:
+    email: "contact@ruoc.co"
+    github: "raumzeitkeks"
+    #stackoverflow = "users/XXXXXXX/username"
+
+menu:
+  main:
+    - name: "Rezepte"
+      url: "/rezepte"

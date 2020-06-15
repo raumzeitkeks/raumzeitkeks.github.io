@@ -1,0 +1,31 @@
+social_icons:
+  -
+    id: "email"
+    url: "mailto:%s"
+    title: "Send e-mail"
+    icon: "fas fa-envelope"
+  -
+    id: "github"
+    url: "https://github.com/%s"
+    title: "GitHub"
+    icon: "fab fa-github"
+  -
+    id: "stackoverflow"
+    url: "https://stackoverflow.com/%s"
+    title: "StackOverflow"
+    icon: "fab fa-stack-overflow"
+  -
+    id: "reddit"
+    url: "https://reddit.com/u/%s"
+    title: "Reddit"
+    icon: "fab fa-reddit-alien"
+  -
+    id: "linkedin"
+    url: "https://linkedin.com/in/%s"
+    title: "LinkedIn"
+    icon: "fab fa-linkedin"
+  -
+    id: "xing"
+    url: "https://www.xing.com/profile/%s"
+    title: "Xing"
+    icon: "fab fa-xing"
