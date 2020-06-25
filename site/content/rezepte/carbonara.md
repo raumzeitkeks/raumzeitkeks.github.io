@@ -13,6 +13,8 @@ title: Spaghetti alla Carbonara
 * Pfeffer
 
 ### Zubereitung
+1. Butter anwärmen.
+1. Eier trennen.
 1. Pasta aufsetzen.
 1. Schinkelwürfel in Öl anbraten.
 1. Eigelb, Butter, Salz und Pfeffer schaumig rühren.
