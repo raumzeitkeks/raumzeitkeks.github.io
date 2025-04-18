@@ -18,7 +18,9 @@ export default async function (eleventyConfig) {
     return collection.getFilteredByGlob('./src/nav/*');
   });
   eleventyConfig.addCollection('rezepte', collection => {
-    return collection.getFilteredByGlob('./src/rezepte/*');
+    return collection.getFilteredByGlob('./src/rezepte/*').sort((a, b) => {
+      return a.data.title.localeCompare(b.data.title);
+    });
   });
 
   // Plugins
