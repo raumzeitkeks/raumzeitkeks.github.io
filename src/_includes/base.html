@@ -1,0 +1,33 @@
+---
+title: Ruoc.co
+lang: en
+---
+
+<!doctype html>
+<html lang="{{ lang }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://latex.vercel.app/style.css">
+    <title>{{ title }}</title>
+  </head>
+  <body id="top" class="text-justify">
+    <nav>
+      <a href="/"><strong>ruoc.co</strong></a>
+      <ul>
+        {% for nav in collections.nav %}
+        <li><a href="{{ nav.page.inputPath }}">{{ nav.data.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+    <header>
+      <h1>{{ title }}</h1>
+      <p class="author">
+        Calvin Ruocco, Giulia Ruocco
+      </p>
+    </header>
+    <main>
+      {{ content }}
+    </main>
+  </body>
+</html>

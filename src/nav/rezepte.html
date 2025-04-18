@@ -1,0 +1,8 @@
+---
+permalink: /rezepte.html
+title: Rezepte
+---
+
+{% for rezept in collections.rezepte %}
+  <li><a href="{{ rezept.page.inputPath }}">{{ rezept.data.title }}</a></li>
+{% endfor %}

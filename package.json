@@ -1,0 +1,12 @@
+{
+  "name": "raumzeitkeks.github.io",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "bunx @11ty/eleventy",
+    "start": "bunx @11ty/eleventy --serve --quiet"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}
