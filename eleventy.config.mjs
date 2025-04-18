@@ -8,6 +8,8 @@ import {
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function (eleventyConfig) {
+  eleventyConfig.addWatchTarget('./src/**/*');
+
   // Layouts
   eleventyConfig.addLayoutAlias('base', 'base.html');
 
@@ -27,8 +29,8 @@ export default async function (eleventyConfig) {
 
   // Assets
   eleventyConfig.addPassthroughCopy({
-    'src/assets/images/favicon/*': '/',
-    'src/assets/fonts/': 'assets/fonts/',
+    'src/_favicon': '/',
+    'src/_assets': '/',
   });
 
   return {

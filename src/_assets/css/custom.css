@@ -1,0 +1,12 @@
+header nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header nav ul li {
+  margin-inline: 0.3rem;
+  display: inline;
+  font-variant-caps: small-caps;
+}
