@@ -1,7 +1,7 @@
 ---
 title: Spaghetti alla Carbonara
+subtitle: für zwei Portionen
 ---
-*für zwei Portionen*
 
 ### Zutaten
 * 250g Spaghetti

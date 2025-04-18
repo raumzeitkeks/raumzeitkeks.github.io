@@ -1,7 +1,7 @@
 ---
 title: Schokobrötchen
+subtitle: für 8-10 Schokobrötchen
 ---
-*für 8-10 Schokobrötchen*
 
 ### Zutaten
 * 250g Quark

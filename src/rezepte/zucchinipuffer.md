@@ -1,7 +1,7 @@
 ---
 title: Zucchinipuffer
+subtitle: für ? Portionen
 ---
-*für ? Portionen*
 
 ### Zutaten
 * 3 Eier

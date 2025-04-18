@@ -1,7 +1,7 @@
 ---
 title: Schnupfnudel-Gemüse-Auflauf
+subtitle: für vier Portionen
 ---
-*für vier Portionen*
 
 ### Zutaten
 * 1 Zwiebel

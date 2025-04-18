@@ -1,7 +1,7 @@
 ---
 title: Polpetti
+subtitle: für ? Portionen
 ---
-*für ? Portionen*
 
 ### Zutaten
 * 500g Hackfleisch (halb & halb)

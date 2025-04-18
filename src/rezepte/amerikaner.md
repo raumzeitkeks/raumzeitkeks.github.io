@@ -1,7 +1,7 @@
 ---
 title: Amerikaner
+subtitle: für 6-10 Stück
 ---
-*für 6-10 Amerikaner*
 
 ### Zutaten
 * 100g Butter

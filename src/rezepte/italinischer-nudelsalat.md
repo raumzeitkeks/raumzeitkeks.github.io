@@ -1,7 +1,7 @@
 ---
 title: Italienischer Nudelsalat
+subtitle: für 4 Portionen
 ---
-*für 4 Portionen*
 
 ### Zutaten
 * 350g Penne

@@ -1,7 +1,7 @@
 ---
 title: Mediterrane Reispfanne
+subtitle: für ? Portionen
 ---
-*für ? Portionen*
 
 ### Zutaten
 * 2 kleine Tassen Reis

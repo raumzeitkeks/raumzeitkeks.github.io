@@ -1,7 +1,7 @@
 ---
 title: Kassler-Mazbier-Braten
+subtitle: für acht Portionen
 ---
-*für acht Portionen*
 
 ### Zutaten
 * 800g Kassler

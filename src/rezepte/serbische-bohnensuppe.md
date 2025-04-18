@@ -1,7 +1,7 @@
 ---
 title: Serbische Bohnensuppe
+subtitle: für vier Portionen
 ---
-*für vier Portionen*
 
 ### Zutaten
 * 400g Hackfleisch (halb & halb)

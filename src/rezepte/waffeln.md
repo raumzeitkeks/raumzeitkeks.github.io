@@ -1,7 +1,7 @@
 ---
 title: Waffeln
+subtitle: für vier Personen
 ---
-*für vier Personen*
 
 ### Zutaten
 * 6 Eier

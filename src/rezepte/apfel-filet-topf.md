@@ -1,7 +1,7 @@
 ---
 title: Apfel-Filet-Topf
+subtitle: für vier Portionen
 ---
-*für vier Portionen*
 
 ### Zutaten
 * 2 Schweinefilets

@@ -409,8 +409,31 @@ figcaption::before {
   font-weight: bold;
 }
 
+/* Format the site navigation */
+header nav {
+  margin: 0 0 1.5rem 0;
+}
+header nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+header nav ul li {
+  margin-inline: 0.3rem;
+  display: inline;
+  font-variant-caps: small-caps;
+}
+
 /* Center align the title */
-h1:first-child {
+header h1 {
+  text-align: center;
+}
+
+/* Center align subtitle, use small caps */
+header h1 + p {
+  margin: -1rem;
+  font-variant-caps: small-caps;
   text-align: center;
 }
 
@@ -489,13 +512,6 @@ dl dd {
   content: 'Definition ' counter(definition) '. ';
   font-weight: bold;
   font-style: normal;
-}
-
-/* Center align author name, use small caps and add vertical spacing  */
-.author {
-  margin: 0.85rem 0;
-  font-variant-caps: small-caps;
-  text-align: center;
 }
 
 /* Sidenotes */

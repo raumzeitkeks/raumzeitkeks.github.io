@@ -1,7 +1,7 @@
 ---
 title: Hähnchenbrust-Salat
+subtitle: für zwei Portionen
 ---
-*für zwei Portionen*
 
 ### Zutaten
 * 250g Hähnchenbrustfilet

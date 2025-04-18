@@ -1,7 +1,7 @@
 ---
 title: Crêpes
+subtitle: für eine Person
 ---
-*für eine Person*
 
 ### Zutaten
 * 1 Ei

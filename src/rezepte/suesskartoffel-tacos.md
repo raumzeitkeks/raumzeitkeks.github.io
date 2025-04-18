@@ -1,7 +1,7 @@
 ---
 title: Süßkartoffel-Tacos
+subtitle: für zwei Portionen
 ---
-*für zwei Portionen*
 
 ### Zutaten
 * 4 Tortilla-Wraps

@@ -1,7 +1,7 @@
 ---
 title: Gnocchi al forno
+subtitle: für ? Portionen
 ---
-*für ? Portionen*
 
 ### Zutaten
 * 1 kg Gnocchi

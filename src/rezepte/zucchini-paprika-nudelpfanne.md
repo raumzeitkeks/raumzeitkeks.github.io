@@ -1,7 +1,7 @@
 ---
 title: Zucchini-Paprika-Nudelpfanne
+subtitle: für zwei Portionen
 ---
-*für zwei Portionen*
 
 ### Zutaten
 * 1 Paprika

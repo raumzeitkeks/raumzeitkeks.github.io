@@ -1,7 +1,7 @@
 ---
 title: Leberkäse mit Bratkartoffeln
+subtitle: für vier Portionen
 ---
-*für vier Portionen*
 
 ### Zutaten
 * 4 dicke Scheiben Leberkäse

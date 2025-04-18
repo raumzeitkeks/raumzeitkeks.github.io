@@ -8,13 +8,11 @@ lang: en
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/css/latex.css">
-    <link rel="stylesheet" href="/css/custom.css">
+    <link rel="stylesheet" href="/css/style.css">
     <title>{{ title }} | ruoc.co</title>
   </head>
   <body>
     <header>
-      <h1>{{ title }}</h1>
       <nav>
         <ul>
           <li><a href="/">Home</a></li>
@@ -23,8 +21,9 @@ lang: en
           {% endfor %}
         </ul>
       </nav>
-      <p class="author">
-        Calvin Ruocco, Giulia Ruocco
+      <h1>{{ title }}</h1>
+      <p>
+        {{ subtitle }}
       </p>
     </header>
     <main>

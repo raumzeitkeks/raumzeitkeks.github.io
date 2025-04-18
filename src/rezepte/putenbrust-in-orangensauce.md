@@ -1,7 +1,7 @@
 ---
 title: Putenbrust in Orangensauce
+subtitle: für zwei Portionen
 ---
-*für zwei Portionen*
 
 ### Zutaten
 * 500g Putenbrustfilet

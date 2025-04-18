@@ -1,7 +1,7 @@
 ---
 title: Pancakes
+subtitle: als Beilage für zwei Personen
 ---
-*als Beilage für zwei Personen*
 
 ### Zutaten
 * 1 Ei

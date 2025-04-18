@@ -1,7 +1,7 @@
 ---
 title: Chili con Carne
+subtitle: für ? Portionen
 ---
-*für ? Portionen*
 
 ### Zutaten
 * 1,5kg Hackfleisch

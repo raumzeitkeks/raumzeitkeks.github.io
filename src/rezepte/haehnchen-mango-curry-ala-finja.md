@@ -1,7 +1,7 @@
 ---
 title: Hähnchen-Mango-Curry
+subtitle: für ? Portionen
 ---
-*für ? Portionen*
 
 ### Zutaten
 * 500g Putenbrust

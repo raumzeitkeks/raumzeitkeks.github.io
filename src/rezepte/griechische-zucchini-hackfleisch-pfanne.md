@@ -1,7 +1,7 @@
 ---
 title: Griechische Zucchini-Hackfleisch-Pfanne
+subtitle: für vier Portionen
 ---
-*für vier Portionen*
 
 ### Zutaten
 * 200g Feta-Käse

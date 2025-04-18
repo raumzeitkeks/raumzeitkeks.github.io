@@ -1,7 +1,7 @@
 ---
 title: Kürbissuppe
+subtitle: für 4-6 Portionen
 ---
-*für 4-6 Portionen*
 
 ### Zutaten
 * 2 Hokkaido

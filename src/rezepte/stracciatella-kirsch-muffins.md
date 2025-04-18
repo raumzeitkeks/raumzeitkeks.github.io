@@ -1,7 +1,7 @@
 ---
 title: Schoko-Kirsch-Muffins
+subtitle: für 24 Muffins
 ---
-*für 24 Muffins*
 
 ### Zutaten
 * 1 Glas Sauerkirschen (350g Abtropfgewicht)
