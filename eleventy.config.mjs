@@ -1,6 +1,3 @@
-// Data
-import yaml from 'js-yaml';
-
 // Plugins
 import {
   InputPathToUrlTransformPlugin,
@@ -12,6 +9,8 @@ export default async function (eleventyConfig) {
   eleventyConfig.addWatchTarget('./src/**/*');
 
   // Layouts
+  eleventyConfig.addGlobalData('layout', 'base');
+  eleventyConfig.addLayoutAlias('html', 'html.pug');
   eleventyConfig.addLayoutAlias('base', 'base.pug');
 
   // Collections
@@ -26,7 +25,7 @@ export default async function (eleventyConfig) {
 	eleventyConfig.addPlugin(PugPlugin);
 
   // Data
-  eleventyConfig.addDataExtension('yaml', contents => yaml.load(contents));
+  eleventyConfig.setDataFileBaseName('_data');
 
   // Assets
   eleventyConfig.addPassthroughCopy({
@@ -37,7 +36,10 @@ export default async function (eleventyConfig) {
   return {
     dir: {
       input: 'src',
-      output: 'dist'
+      output: 'dist',
+      data: '_data',
+      layouts: '_layouts',
+      includes: '_includes',
     }
   };
 }
