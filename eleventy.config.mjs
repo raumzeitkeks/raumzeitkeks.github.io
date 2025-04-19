@@ -5,18 +5,16 @@ import yaml from 'js-yaml';
 import {
   InputPathToUrlTransformPlugin,
 } from '@11ty/eleventy';
+import PugPlugin from "@11ty/eleventy-plugin-pug";
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function (eleventyConfig) {
   eleventyConfig.addWatchTarget('./src/**/*');
 
   // Layouts
-  eleventyConfig.addLayoutAlias('base', 'base.html');
+  eleventyConfig.addLayoutAlias('base', 'base.pug');
 
   // Collections
-  eleventyConfig.addCollection('nav', collection => {
-    return collection.getFilteredByGlob('./src/nav/*');
-  });
   eleventyConfig.addCollection('rezepte', collection => {
     return collection.getFilteredByGlob('./src/rezepte/*').sort((a, b) => {
       return a.data.title.localeCompare(b.data.title);
@@ -25,6 +23,7 @@ export default async function (eleventyConfig) {
 
   // Plugins
   eleventyConfig.addPlugin(InputPathToUrlTransformPlugin);
+	eleventyConfig.addPlugin(PugPlugin);
 
   // Data
   eleventyConfig.addDataExtension('yaml', contents => yaml.load(contents));

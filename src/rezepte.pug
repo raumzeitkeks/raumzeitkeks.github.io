@@ -1,0 +1,8 @@
+---
+title: Rezepte
+---
+
+ul
+  each rezept in collections.rezepte
+    li
+      a(href=rezept.page.inputPath) #{ rezept.data.title }

@@ -7,6 +7,7 @@
     "start": "bunx @11ty/eleventy --serve --quiet"
   },
   "dependencies": {
-    "@11ty/eleventy": "^3.0.0"
+    "@11ty/eleventy": "^3.0.0",
+    "@11ty/eleventy-plugin-pug": "^1.0.0"
   }
 }
