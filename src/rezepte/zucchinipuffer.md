@@ -3,7 +3,7 @@ title: Zucchinipuffer
 subtitle: für ? Portionen
 ---
 
-### Zutaten
+## Zutaten
 * 3 Eier
 * 200g Sahne
 * 300g Weizenvollkornmehl, fein gemahlen
@@ -16,7 +16,7 @@ subtitle: für ? Portionen
 * Salz
 * Pfeffer
 
-### Zubereitung
+## Zubereitung
 1. Eier und Sahne verrühren.
 1. Mehl einsieben und unterrühren.
 1. 15 Minuten quellen lassen.

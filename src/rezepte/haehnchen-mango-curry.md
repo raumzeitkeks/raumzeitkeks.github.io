@@ -3,7 +3,7 @@ title: Hähnchen-Mango-Curry
 subtitle: für ? Portionen
 ---
 
-### Zutaten
+## Zutaten
 * 500g Putenbrust in Streifen
 * 1TL Koriander
 * 1TL Kurkuma
@@ -17,7 +17,7 @@ subtitle: für ? Portionen
 * 4 Tomaten
 * Reis
 
-### Zubereitung
+## Zubereitung
 1. Fleisch mit Koriander, Salz und Pfeffer anbraten.
 1. Fleisch beiseite, im Fett Knoblauch und Gewürze anbraten.
 1. Joghurt, Creme Fraiche, Mangochutney, Tomatenketchup und Tomaten hinzufügen und einkochen.

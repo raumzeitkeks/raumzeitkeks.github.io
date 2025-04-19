@@ -3,7 +3,7 @@ title: Zucchini-Paprika-Nudelpfanne
 subtitle: für zwei Portionen
 ---
 
-### Zutaten
+## Zutaten
 * 1 Paprika
 * 2 Zucchini
 * 1 Zwiebel
@@ -15,7 +15,7 @@ subtitle: für zwei Portionen
 * Parmesankäse
 * 250g Nudeln oder 500g Gnocchi
 
-### Zubereitung
+## Zubereitung
 1. Zucchini und Paprika schneiden und mit Öl dünsten, bis sie weich werden.
 1. Parallel Nudeln/Gnocci aufsetzen.
 1. Tomaten und Knoblauch zur Sauce hinzufügen und würzen.

@@ -3,7 +3,7 @@ title: Griechische Zucchini-Hackfleisch-Pfanne
 subtitle: für vier Portionen
 ---
 
-### Zutaten
+## Zutaten
 * 200g Feta-Käse
 * 400g Hackfleisch
 * 2 Zucchini
@@ -16,7 +16,7 @@ subtitle: für vier Portionen
 * Gewürze (z.B. Thymian, Oregano, Basilikum, Pfeffer, griechische Gewürzmischung, Hackfleischgewürz, ...)
 * Dazu passen Kartoffeln oder Reis
 
-### Zubereitung
+## Zubereitung
 1. Kartoffeln oder Reis kochen.
 1. Zucchini in Würfel schneiden und durchbraten.
 1. Dann Zucchini aus der Pfanne nehmen.
@@ -28,5 +28,5 @@ subtitle: für vier Portionen
 1. Die Zucchini wieder in die Pfanne geben und alles mittlerer Hitze 5-10 Minuten schmoren.
 1. Zuletzt den Feta hinzufügen und warten bis dieser etwas geschmolzen ist.
 
-### Tipp
+## Tipp
 Schemckt abgekühlt auch gut auf Crêpes.

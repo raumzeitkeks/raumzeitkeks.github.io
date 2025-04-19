@@ -3,7 +3,7 @@ title: Putenbrust in Orangensauce
 subtitle: für zwei Portionen
 ---
 
-### Zutaten
+## Zutaten
 * 500g Putenbrustfilet
 * 125ml Frisch gepressten Orangensaft
 * 125ml Weißwein
@@ -15,7 +15,7 @@ subtitle: für zwei Portionen
 * Pfeffer
 * Salz
 
-### Zubereitung
+## Zubereitung
 1. 125ml Orangensaft, 125ml Weißwein und einen Spritzer Maggi vermischen.
 1. 500g Putenbrustfilet über Nacht in der Sauce marinieren.
 1. Putenbrust mit Salz und Pfeffer würzen und in Öl anbraten.

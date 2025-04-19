@@ -3,14 +3,14 @@ title: Crêpes
 subtitle: für eine Person
 ---
 
-### Zutaten
+## Zutaten
 * 1 Ei
 * 200g Milch
 * 100g Mehl
 * 20g Zucker für süße Crêpes / 5g Zucker für deftige Crêpes
 * 1 Prise Salz
 
-### Zubereitung
+## Zubereitung
 1. Alle Zutaten mixen.
 1. 15 Minuten ruhen lassen, damit die Luftbläschen verschwinden.
 
@@ -20,5 +20,5 @@ subtitle: für eine Person
 1. Rechtzeitig wenden und aus der Pfanne nehmen.
 1. Von vorne starten.
 
-### Tipp
+## Tipp
 Schmeckt auch gut mit abgekühlter [serbischer Bohnensuppe](/rezepte/serbische-bohnensuppe.md) oder [griechicher Zucchini-Hackfleich-Pfanne](/rezepte/griechische-zucchini-hackfleisch-pfanne.md).

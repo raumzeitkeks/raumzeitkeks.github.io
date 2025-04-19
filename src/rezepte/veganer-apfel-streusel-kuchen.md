@@ -1,7 +1,7 @@
 ---
 title: Veganer Apfel-Streusel-Kuchen
 ---
-### Zutaten
+## Zutaten
 * 300g Mehl
 * 100g Zucker
 * 200g vegane Magarine
@@ -10,7 +10,7 @@ title: Veganer Apfel-Streusel-Kuchen
 * 3EL Zucker
 * 1 Prise Zimt
 
-### Zubereitung
+## Zubereitung
 1. Die Banane schälen und zu Mus zerquetschen.
 1. Bananenmus, Mehl und Margarine in einer Schüssel verkneten. Es sollte ein einigermaßen fester und leicht krümeliger Mürbeteig entstehen.
 1. Mit drei Vierteln des Teigs den Boden und Rand einer Springform auskleiden.

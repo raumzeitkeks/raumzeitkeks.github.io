@@ -3,7 +3,7 @@ title: Kürbissuppe
 subtitle: für 4-6 Portionen
 ---
 
-### Zutaten
+## Zutaten
 * 2 Hokkaido
 * 4 Karotten
 * 25g Ingwer
@@ -14,7 +14,7 @@ subtitle: für 4-6 Portionen
 * Pfeffer
 * Schmand
 
-### Zubereitung
+## Zubereitung
 1. Hokkaido, Karotten, Ingwer in ca 1-2cm große Stücke schneiden.
 1. Gemüse mit 2EL Butter oder Albaöl in einem großen Topf auf geringer Hitze andünsten.
 1. Nach einer Weile 1l Gemüsebrühe hinzugießen.

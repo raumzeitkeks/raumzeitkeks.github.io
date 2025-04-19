@@ -3,7 +3,7 @@ title: Mediterrane Reispfanne
 subtitle: für ? Portionen
 ---
 
-### Zutaten
+## Zutaten
 * 2 kleine Tassen Reis
 * 2 Zucchini
 * 1 Aubergine
@@ -19,7 +19,7 @@ subtitle: für ? Portionen
 * evtl Feta-Käse
 * evtl Hackfleisch
 
-### Zubereitung
+## Zubereitung
 1. Den Reis kochen.
 1. Gemüse schneiden und in der Pfanne dünsten lassen.
 1. Ggf Hackfleisch in der Pfanne anbraten.

@@ -3,7 +3,7 @@ title: Süßkartoffel-Tacos
 subtitle: für zwei Portionen
 ---
 
-### Zutaten
+## Zutaten
 * 4 Tortilla-Wraps
 * 1 Süßkartoffel
 * 150g Feta/Hirtenkäse
@@ -18,19 +18,19 @@ subtitle: für zwei Portionen
 * Salz
 * Pfeffer
 
-### Zubereitung (Avocado)
+## Zubereitung (Avocado)
 1. Die Avocado halbieren, den Stein und die Schale entfernen.
 1. Das Fruchtfleisch in Streifen schneiden.
 
-### Zubereitung (Dip)
+## Zubereitung (Dip)
 1. Den Joghurt mit Ajvar mischen und mit Salz abschmecken.
 
-### Zubereitung (Salsa)
+## Zubereitung (Salsa)
 1. Tomaten würfeln und in ein Schälchen geben.
 1. Den Saft einer halben Limette auspressen und zu den Tomaten gießen.
 1. Die andere Limettenhälfte schälen, in kleine Stücke schneiden und zu den Tomaten geben.
 
-### Zubereitung (Süßkartoffeln)
+## Zubereitung (Süßkartoffeln)
 1. Die Süßkartoffel in 1cm große Würfel schneiden und auf einem Backblech verteilen.
 1. Rauchiges Gewürz, 2EL Olivenöl, Salz und Pfeffer über den Süßkartoffeln verteilen und etwas vermengen.
 

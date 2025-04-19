@@ -1,7 +1,7 @@
 ---
 title: Philadelphia-Torte
 ---
-### Zutaten
+## Zutaten
 * 200g Löffelbiskuit
 * 120g Butter
 * 400g Frischkäse
@@ -11,7 +11,7 @@ title: Philadelphia-Torte
 * 250ml Wasser
 * 250ml Sahne
 
-### Zubereitung
+## Zubereitung
 1. Löffelbiskuit zerbröseln und mit geschmolzener Butter verkneten.
 1. In einer Springform locker andrücken und mind 1/2 h in den Kühlschrank stellen.
 1. Käse, Zitronensaft, Zucker und Vanillezucker mixen.

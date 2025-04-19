@@ -3,7 +3,7 @@ title: Schoko-Kirsch-Muffins
 subtitle: für 24 Muffins
 ---
 
-### Zutaten
+## Zutaten
 * 1 Glas Sauerkirschen (350g Abtropfgewicht)
 * 190g Zucker
 * 1 Pck Vanillinzucker
@@ -15,7 +15,7 @@ subtitle: für 24 Muffins
 * \<1 TL Natron
 * 200g Schokolade (z.B. Kuvertüre)
 
-### Zubereitung
+## Zubereitung
 1. Kirschen gut abtropfen.
 1. Zucker, Vanillezucker, Ei, Öl und Joghurt zusammen mischen.
 1. Mehl, Natron und Backpulver dazumischen.

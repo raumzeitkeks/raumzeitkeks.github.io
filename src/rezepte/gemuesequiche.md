@@ -2,14 +2,14 @@
 title: Gemüsequiche
 ---
 
-### Zutaten (Teig)
+## Zutaten (Teig)
 300g Mehl
 1TL Salz
 3TL Backpulver
 75ml Öl
 100ml Wasser
 
-### Zutaten (Füllung)
+## Zutaten (Füllung)
 1 Zwiebel
 2 Zehen Knoblauch
 500g Gemüse (gemischt)
@@ -17,7 +17,7 @@ title: Gemüsequiche
 3 Eier
 Salz, Pfeffer, Gewürze, Schnittlauch, Petersilie
 
-### Zubereitung
+## Zubereitung
 1. Teig herstellen und Ruhen lassen.
 1. Währenddessen Zwiebeln + Knoblauch anbraten (glasig), dann Gemüse dazu geben und ca. 15 Minuten dünsten.
 1. Mit Salz und Pfeffer würzen.

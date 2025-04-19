@@ -3,7 +3,7 @@ title: Schnupfnudel-Gemüse-Auflauf
 subtitle: für vier Portionen
 ---
 
-### Zutaten
+## Zutaten
 * 1 Zwiebel
 * 1 Zucchini
 * 1 Stange Porree
@@ -14,7 +14,7 @@ subtitle: für vier Portionen
 * 400g Hackfleisch
 * Salz, Cayennepfeffer
 
-### Zubereitung
+## Zubereitung
 1. Zwiebeln und Hackfleisch anbraten.
 1. Porree und Zucchini hinzufügen.
 1. Tomaten und Gewürze unterheben.

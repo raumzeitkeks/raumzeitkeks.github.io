@@ -3,7 +3,7 @@ title: Pancakes
 subtitle: als Beilage für zwei Personen
 ---
 
-### Zutaten
+## Zutaten
 * 1 Ei
 * 100g Milch
 * 100g Mehl
@@ -11,7 +11,7 @@ subtitle: als Beilage für zwei Personen
 * 0.5 TL Backpulver
 * 1 Prise Salz
 
-### Zubereitung
+## Zubereitung
 1. Alle Zutaten mixen.
 1. Pfanne auf mittlerer Stufe erhitzen.
 1. Etwas Öl in der Pfanne verteilen.

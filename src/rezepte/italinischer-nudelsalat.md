@@ -3,7 +3,7 @@ title: Italienischer Nudelsalat
 subtitle: für 4 Portionen
 ---
 
-### Zutaten
+## Zutaten
 * 350g Penne
 * 200g Mozarella
 * 100g getrocknete Tomaten
@@ -12,7 +12,7 @@ subtitle: für 4 Portionen
 * Parmesankäse
 * Rucola
 
-### Zutaten (Sauce)
+## Zutaten (Sauce)
 * 1 Zehe Knoblauch
 * 70ml Olivenöl
 * 3EL Balsamico - Essig
@@ -20,7 +20,7 @@ subtitle: für 4 Portionen
 * 1TL Senf
 * 1TL Honig
 
-### Zubereitung
+## Zubereitung
 1. Nudeln kochen und abkühlen lassen.
 1. Pinienkerne ohne Fett anbraten.
 1. Mozzarella, getr. Tomaten, Parmaschinken zerkleinern.

@@ -3,7 +3,7 @@ title: Serbische Bohnensuppe
 subtitle: für vier Portionen
 ---
 
-### Zutaten
+## Zutaten
 * 400g Hackfleisch (halb & halb)
 * 150g Zwiebeln
 * 400g Weiße Bohnen aus der Dose
@@ -18,11 +18,11 @@ subtitle: für vier Portionen
 * Cayennepfeffer
 * Maggi
 
-### Zubereitung
+## Zubereitung
 1. Hackfleisch anbraten
 1. Zwiebel dazu und glasig werden lassen
 1. Paprika dazu und 15 Minuten dünsten
 1. Weiße Bohnen, Tomatensaft, Ketchup, Sangrita, Gewürze dazu und einkochen
 
-### Tipp
+## Tipp
 Schmeckt abgekühlt auch gut zu Crêpes.

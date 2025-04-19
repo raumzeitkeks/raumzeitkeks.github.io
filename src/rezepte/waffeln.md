@@ -3,7 +3,7 @@ title: Waffeln
 subtitle: für vier Personen
 ---
 
-### Zutaten
+## Zutaten
 * 6 Eier
 * 250g Quark
 * 250g Butter
@@ -12,7 +12,7 @@ subtitle: für vier Personen
 * 0.5 Pck Backpulver
 * 1 Pck Vanillezucker
 
-### Zubereitung
+## Zubereitung
 1. 250g Butter in eine Rührschüssel geben.
 1. 200g Zucker hinzu.
 1. 1 Pck Vanillezucker.

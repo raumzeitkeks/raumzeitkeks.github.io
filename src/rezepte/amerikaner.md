@@ -3,7 +3,7 @@ title: Amerikaner
 subtitle: für 6-10 Stück
 ---
 
-### Zutaten
+## Zutaten
 * 100g Butter
 * 100g Zucker
 * 1 Pck Vanillezucker
@@ -16,7 +16,7 @@ subtitle: für 6-10 Stück
 * 250g Puderzucker
 * Zitronensaft
 
-### Zubereitung
+## Zubereitung
 1. Butter, Zucker, Vanillezucker, Eier und Salz mixen.
 1. Puddingpulver, Milch, Mehl, Backpulver hinzugeben.
 1. 2 TL kleine Häufchen auf Backblech legen.

@@ -1,7 +1,7 @@
 ---
 title: Brownies
 ---
-### Zutaten
+## Zutaten
 * 275g Schokolade (70% Kakao)
 * 250g Butter
 * 250g Zucker
@@ -11,7 +11,7 @@ title: Brownies
 * 2 EL Backkakao
 * 4 Eier
 
-### Zubereitung
+## Zubereitung
 1. Schokolade und Butter im Wasserbad schmelzen.
 1. Eier und Zucker schaumig schlagen.
 1. Mehl und Backpulver einsieben und verrühren.

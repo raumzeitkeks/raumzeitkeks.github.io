@@ -3,7 +3,7 @@ title: Leberkäse mit Bratkartoffeln
 subtitle: für vier Portionen
 ---
 
-### Zutaten
+## Zutaten
 * 4 dicke Scheiben Leberkäse
 * 1kg Kartoffeln
 * 4 Eier
@@ -11,7 +11,7 @@ subtitle: für vier Portionen
 * Ketchup
 * dazu Gemüse oder Salat
 
-### Zubereitung
+## Zubereitung
 1. Kartoffeln anbraten und würzen.
 1. Leberkäse anbraten.
 1. Spiegeleier machen.

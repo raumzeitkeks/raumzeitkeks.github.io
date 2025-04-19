@@ -1,7 +1,7 @@
 ---
 title: Taco-Salat
 ---
-### Zutaten
+## Zutaten
 * 1/2 Kopf Eisbergsalat
 * 500g Hackfleisch
 * 1 Flasche Texikana Salsa
@@ -12,7 +12,7 @@ title: Taco-Salat
 * 200g Gouda, gerieben
 * 150g Tortilla-Chips
 
-### Zubereitung
+## Zubereitung
 1. Hackfleisch anbraten und abkühlen lassen.
 1. Eisbergsalat schneiden und dazu geben.
 1. Salsa, geschnittene Tomate und Mais hinzugeben.

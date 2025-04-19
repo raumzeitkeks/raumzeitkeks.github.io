@@ -3,7 +3,7 @@ title: Kassler-Mazbier-Braten
 subtitle: für acht Portionen
 ---
 
-### Zutaten
+## Zutaten
 * 800g Kassler
 * 500g Möhren
 * 200ml Gemüse-Buillon
@@ -14,7 +14,7 @@ subtitle: für acht Portionen
 * Salz und Pfeffer
 * 500g Spätzle
 
-### Zubereitung
+## Zubereitung
 1. Kassler im bedeckten Bräter mit 100ml Wasser bei 200° Umluft für 15 Minuten garen.
 1. Möhrenscheiben dazu geben und weitere 20 Minuten im Ofen braten.
 1. Deckel entfernen und weitere 15 Minuten braten.

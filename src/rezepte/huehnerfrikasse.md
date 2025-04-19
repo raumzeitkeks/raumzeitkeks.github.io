@@ -3,7 +3,7 @@ title: Hühnerfrikasse
 subtitle: für vier Portionen
 ---
 
-### Zutaten
+## Zutaten
 * 500-600g Hähnchenbrustfilet (geht auch TK)
 * 1 Dose Erbsen und Möhren (500g Abtropfgewicht)
 * 1 Glas Spargel
@@ -14,7 +14,7 @@ subtitle: für vier Portionen
 * Salz und Pfeffer
 * Reis
 
-### Zubereitung
+## Zubereitung
 1. Reis aufsetzen.
 1. Das Hähnchenbrustfilet (500-600g) ca. 20 Minuten in der Hühnerbrühe (750ml) kochen.
 1. Nach den 20 Min das Fleisch aus dem Topf nehmen. Die Brühe zur Seite stellen.

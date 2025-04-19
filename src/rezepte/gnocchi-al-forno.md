@@ -3,7 +3,7 @@ title: Gnocchi al forno
 subtitle: für ? Portionen
 ---
 
-### Zutaten
+## Zutaten
 * 1 kg Gnocchi
 * 1 Knoblauchzehe
 * 2 EL Olivenöl
@@ -15,7 +15,7 @@ subtitle: für ? Portionen
 * Salz, Pfeffer, Oregano, Brühe
 * Parmesankäse
 
-### Zubereitung
+## Zubereitung
 1. Gnocchi kochen.
 1. Paprika putzen und pürieren.
 1. In Olivenöl, Knoblauch anbraten und Paprika hinzugeben und mitbraten.

@@ -3,7 +3,7 @@ title: Polpetti
 subtitle: für ? Portionen
 ---
 
-### Zutaten
+## Zutaten
 * 500g Hackfleisch (halb & halb)
 * 100g Parmesan
 * 2-3 Eier
@@ -12,7 +12,7 @@ subtitle: für ? Portionen
 * Salz
 * Pfeffer
 
-### Zubereitung
+## Zubereitung
 1. Toast kurz in Wasser aufweichen und leicht ausdrücken.
 1. Alles verkneten und Bällchen formen.
 1. Vorsichtig bei mittlerer Hitze in einer Pfanne mit etwas Öl anbraten.

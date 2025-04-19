@@ -3,7 +3,7 @@ title: Apfel-Filet-Topf
 subtitle: für vier Portionen
 ---
 
-### Zutaten
+## Zutaten
 * 2 Schweinefilets
 * Salz, weißer Pfeffer
 * 2-3 Äpfel (zB Braeburn)
@@ -15,7 +15,7 @@ subtitle: für vier Portionen
 * 75g Gouda
 * Reis oder Kroketten
 
-### Zubereitung
+## Zubereitung
 1. Dicke Scheiben Schweinefilets mit Salz und Pfeffer würzen.
 1. Geschälte Apfelviertel abwechselnd mit Filets in die Auflaufform geben.
 1. Soße aus den restlichen Zutaten anrühren und über Fleisch und Äpfel gießen.

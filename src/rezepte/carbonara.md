@@ -3,7 +3,7 @@ title: Spaghetti alla Carbonara
 subtitle: für zwei Portionen
 ---
 
-### Zutaten
+## Zutaten
 * 250g Spaghetti
 * 125g Schinkenwürfel
 * 3 Eigelb
@@ -12,7 +12,7 @@ subtitle: für zwei Portionen
 * Salz
 * Pfeffer
 
-### Zubereitung
+## Zubereitung
 1. Butter anwärmen.
 1. Eier trennen.
 1. Pasta aufsetzen.

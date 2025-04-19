@@ -2,7 +2,7 @@
 title: Marmorkuchen
 ---
 
-### Zutaten
+## Zutaten
 * 4 Eier
 * 175g Milch
 * 250g Butter
@@ -14,7 +14,7 @@ title: Marmorkuchen
 * 40g Backkakao
 * 1 Prise Salz
 
-### Zubereitung
+## Zubereitung
 1. Eine kranzförmige Backform mit etwas Butter einfetten.
 1. 250g Butter in eine Rührschüssel geben.
 1. 250g Zucker hinzu.
