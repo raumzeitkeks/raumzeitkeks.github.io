@@ -2,7 +2,9 @@
 import {
   InputPathToUrlTransformPlugin,
 } from '@11ty/eleventy';
-import PugPlugin from "@11ty/eleventy-plugin-pug";
+
+// Pug
+import pug, { compile }	from 'pug'
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function (eleventyConfig) {
@@ -22,7 +24,6 @@ export default async function (eleventyConfig) {
 
   // Plugins
   eleventyConfig.addPlugin(InputPathToUrlTransformPlugin);
-	eleventyConfig.addPlugin(PugPlugin);
 
   // Data
   eleventyConfig.setDataFileBaseName('_data');
@@ -32,6 +33,23 @@ export default async function (eleventyConfig) {
     'src/_favicon': '/',
     'src/_assets': '/',
   });
+
+  // Pug
+  eleventyConfig.addTemplateFormats('pug');
+	eleventyConfig.addExtension("pug", {
+    compileOptions: {
+      cache: false,
+    },
+		compile: async (inputContent, inputPath) => {
+      return async (data) => {
+        const render = pug.compile(inputContent, {
+          basedir: data.eleventy.directories.includes,
+          filename: inputPath,
+        });
+        return render(data);
+      };
+		},
+	});
 
   return {
     dir: {
