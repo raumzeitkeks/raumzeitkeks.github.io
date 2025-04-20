@@ -4,9 +4,12 @@ layout: html
 
 main
   article
-    header
-      h1 #{ title }
-      p #{ subtitle }
+    header.title
+      span.title
+        if parent
+          a.parent.fa.fa-chevron-left(href=parent)
+        h1.title #{ title }
+      p.subtitle #{ subtitle }
     | !{ content }
 nav
   ul

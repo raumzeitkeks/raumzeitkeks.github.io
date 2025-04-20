@@ -108,28 +108,11 @@ body {
   background-color: var(--body-bg-color);
 }
 
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
-
 :target {
   scroll-margin-block: 5ex;
 }
 
-img, picture {
-  max-width: 100%;
-  display: block;
-}
-
-textarea {
-  width: 100%;
-}
-textarea:not([rows]) {
-  min-height: 10em;
-}
-
+/* Links */
 a, a:visited {
   color: var(--link-color);
 }
@@ -138,8 +121,18 @@ a:focus {
   outline: 2px solid var(--link-focus-outline-color);
 }
 
-p {
-  margin-top: 1rem;
+/* Images */
+img, picture {
+  max-width: 100%;
+  display: block;
+}
+
+/* Textarea */
+textarea {
+  width: 100%;
+}
+textarea:not([rows]) {
+  min-height: 10em;
 }
 
 /* Natural flow and rhythm in articles by default */
@@ -216,15 +209,7 @@ dl dd {
   text-align: center;
 }
 
-/* Checklists */
-.checklist input[type=checkbox] {
-  display: none;
-}
-.checklist input[type=checkbox]:checked + label {
-  text-decoration: line-through;
-}
-
-/* Format the site navigation */
+/* Main Navigation */
 body > nav {
   margin: 2rem 0 0 0;
 }
@@ -248,28 +233,43 @@ body > nav a:visited {
   color: var(--body-color);
 }
 
-/* Format the header */
-main > article > header {
+/* Header */
+header.title {
   text-align: center;
-  margin: 0 0 2rem 0;
+  margin: 1rem 0 2rem 0;
 }
-main > article > header > h1 {
+span.title {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  height: fit-content;
+}
+span.title h1 {
   margin: 0;
+  text-box: trim-both cap alphabetic;
 }
-main > article > header > h1 + * {
+span.title a.parent, span.title a.parent:visited {
+  font-size: 1rem;
+  position: absolute;
+  left: -2rem;
+  color: var(--body-color);
+  text-decoration: none;
+}
+header.title .subtitle {
   font-variant: small-caps;
-  margin: 0;
+  margin: 0.5rem 0 0 0;
 }
 
-/* Nested ordered list for ToC */
-nav ol {
+/* Table-of-Content */
+main > article > nav ol {
   counter-reset: item;
   padding-left: 2rem;
 }
-nav ol > li {
+main > article > nav ol > li {
   display: block;
 }
-nav ol > li::before {
+main > article > nav ol > li::before {
   content: counters(item, '.') ' ';
   counter-increment: item;
   padding-right: 0.85rem;

@@ -14,6 +14,13 @@ html(lang=lang)
     link(rel="stylesheet", href="/css/footnotes.css")
     link(rel="stylesheet", href="/css/sidenotes.css")
     link(rel="stylesheet", href="/css/tables.css")
+    link(rel="stylesheet", href="/css/fa-solid.css")
+    link(rel="stylesheet", href="/css/fa-regular.css")
+    link(rel="stylesheet", href="/css/fontawesome.css")
+    each style in styles || []
+      link(rel="stylesheet", href=`/css/${style}`)
+    each script in scripts || []
+      script(type="module", src=`/scripts/${script}`, defer)
     title #{ htmlTitle }
   body
     | !{ content }
